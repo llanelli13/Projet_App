@@ -1,0 +1,21 @@
+[
+  {
+    "OrderId": 1,
+    "Products": [
+      {
+        "$type": "Pizza, Projet_App",
+        "PizzaSize": 1,
+        "Name": "azer",
+        "Price": 11.99
+      }
+    ],
+    "Customer": {
+      "Address": "azera",
+      "FirstName": "azer",
+      "LastName": "azer",
+      "PhoneNumber": "azer"
+    },
+    "Clerk": null,
+    "Status": "InPreparation"
+  }
+]

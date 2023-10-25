@@ -1,0 +1,17 @@
+C:\Users\Pierre\Desktop\Projet_App\bin\Debug\net7.0\Projet_App.exe
+C:\Users\Pierre\Desktop\Projet_App\bin\Debug\net7.0\Projet_App.deps.json
+C:\Users\Pierre\Desktop\Projet_App\bin\Debug\net7.0\Projet_App.runtimeconfig.json
+C:\Users\Pierre\Desktop\Projet_App\bin\Debug\net7.0\Projet_App.dll
+C:\Users\Pierre\Desktop\Projet_App\bin\Debug\net7.0\Projet_App.pdb
+C:\Users\Pierre\Desktop\Projet_App\bin\Debug\net7.0\Newtonsoft.Json.dll
+C:\Users\Pierre\Desktop\Projet_App\obj\Debug\net7.0\Projet_App.csproj.AssemblyReference.cache
+C:\Users\Pierre\Desktop\Projet_App\obj\Debug\net7.0\Projet_App.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Pierre\Desktop\Projet_App\obj\Debug\net7.0\Projet_App.AssemblyInfoInputs.cache
+C:\Users\Pierre\Desktop\Projet_App\obj\Debug\net7.0\Projet_App.AssemblyInfo.cs
+C:\Users\Pierre\Desktop\Projet_App\obj\Debug\net7.0\Projet_App.csproj.CoreCompileInputs.cache
+C:\Users\Pierre\Desktop\Projet_App\obj\Debug\net7.0\Projet_App.csproj.CopyComplete
+C:\Users\Pierre\Desktop\Projet_App\obj\Debug\net7.0\Projet_App.dll
+C:\Users\Pierre\Desktop\Projet_App\obj\Debug\net7.0\refint\Projet_App.dll
+C:\Users\Pierre\Desktop\Projet_App\obj\Debug\net7.0\Projet_App.pdb
+C:\Users\Pierre\Desktop\Projet_App\obj\Debug\net7.0\Projet_App.genruntimeconfig.cache
+C:\Users\Pierre\Desktop\Projet_App\obj\Debug\net7.0\ref\Projet_App.dll
